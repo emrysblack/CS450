@@ -42,20 +42,20 @@ def load_data_set(data_file, shuffle = True):
     return data, target_list
 
 
-class DNode:
-    def __init__(self, value):
-        self.children = []
-        self.value = value
-
-
-class DTree:
-    def __init__(self, training_data):
+class Neural:
+    def __init__(self, training_data, hidden_layers, num_nodes):
         self.nodes = []
-        self.train(training_data)
+        self.weights = []
+        # use a loop to create hidden layers with specified nodes
+        # use loop to match weights to nodes
+        # randomize weights
+        #learn
+        self.update(training_data)
 
-    def train(self, training_data):
-        # build tree from training data
-        my_data = []
+    def update(self, training_data):
+        new_weights = []
+        # use algorithm to update weights using training data targets
+        # update weight values
+        self.weights = new_weights
 
-    def insert(self, value):
-        self.nodes.append(DNode(value))
+

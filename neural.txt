@@ -1,0 +1,18 @@
+
+Please submit a link to your GitHub repository for your class.
+https://github.com/emrysblack/CS450
+
+Describe your overall approach to implementing the algorithm in code. How are your classes/data structures organized? How do you keep track of the necessary pieces for back-propagation.
+I had a class for the nerual network. the network had a list with all the values and another list with all the weights
+I used the values of -1 for the bias nodes and to determine when a layer ended or began.
+I updated the weights into a new temporary list and then copied that over the weight list after it was all done computing
+
+Describe the part of the assignment that gave you the most trouble, and how you overcame it.
+Getting the regression to update properly. It would run, but wouldn't learn.
+I erased everything and started over.
+
+Compare your results on the Iris dataset to those of an existing implementation.
+28% mine to 96% knn
+
+Please state which category you feel best describes your assignment and give a 1-2 sentence justification for your choice: 
+A) Some attempt was made - I made the network and it worked in one direction, but it wouldn't learn. So I scrapped it and started over, but I didn't get it off the ground since I am still developing an alternative approach.
