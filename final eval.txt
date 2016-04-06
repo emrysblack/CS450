@@ -1,0 +1,69 @@
+After completing your project report, please self evaluate the project and the contribution of each member of the team (including yourself). For each question, please use the following scale:
+
+--------------------------------------------------
+A - Not present or extremely minimal
+B - Developing but significantly deficient
+C - Slightly deficient but still mostly adequate
+D - Meets requirements
+E - Above and beyond expectations
+---------------------------------------------------
+
+For each question, place the letter corresponding to the desired category in front of the question so that:
+
+ - 1. Demonstrates understanding of the business needs / context of the data
+ - 2. Demonstrates ability to handle non-trivial dataset
+...
+
+Becomes something like:
+
+D - 1. Demonstrates understanding of the business needs / context of the data
+E - 2. Demonstrates ability to handle non-trivial dataset
+...
+
+Then, provide a description / justification at the end.
+
+
+********************
+* The Project
+********************
+
+ D - 1. Demonstrates understanding of the business needs / context of the data
+ D - 2. Demonstrates ability to handle non-trivial dataset
+ D - 3. Demonstrates proper algorithm selection and application
+ C - 4. Discovered something interesting / of value
+ D - 5. Demonstrates understanding of limitations of the solution and potential ethical issues
+ D - 6. Conversant in appropriate terminology and technologies
+ D - 7. Overall Project
+
+8. Please provide any overall comments about the project and a justification for your selections here:
+We took what we were given and tackled the problem with some new algorithms. We explored LDA which we 
+hadn't had a chance to use in class. We explored other algorithms that could further help us make connections in the data.
+We didn't feel like we had a big breakthrough despite our efforts.
+
+********************
+* Your Contribution
+********************
+
+1. Name: Brady
+ D - 2. Fulfilled assigned tasks and took initiative
+ D - 3. Helped others learn and succeed
+ D - 4. Attendance and team communication
+ D - 5. Overall Contribution
+
+6. Please briefly describe your contribution and justify your selections above:
+Focused in on the data we wanted to look at. Looked at R and LDA as a good direction
+for data exploration. Came up with ideas to overcome challenges.
+
+********************
+* Teammate #1
+********************
+
+1. Name: Shane
+ E - 2. Fulfilled assigned tasks and took initiative
+ D - 3. Helped others learn and succeed
+ D - 4. Attendance and team communication
+ E - 5. Overall Contribution
+
+6. Please briefly describe this team member's contribution and justify your selections above:
+Wrestled with the data and worked to get it to fit the algorithms. Hooked up the API to gather data for analysis.
+Used both Python and R in tandem to work with the dataset and produce graphs of our findings.

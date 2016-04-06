@@ -1,0 +1,45 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+
+1. Please provide a link to your classifier in your public GitHub repo.
+https://github.com/emrysblack/CS450
+
+dtree
+and 
+id3tree
+
+2. Briefly describe your overall approach to the task and highlight the most difficult part of this assignment.
+Getting the thing to run and interpretting results
+Getting the tree funcionality down is the hardest part. Getting tree funcionality in a language wihout pointers was a challange
+Just getting a working binary style tree was a nightmare
+
+3. Briefly describe how you handled numeric data.
+converted it
+
+4. Briefly describe your you handled missing data.
+set empty values
+
+5. Describe your results for the Iris data set. (e.g., What was the size of the tree? How did your implementation compare to existing implementations? How did your decision tree compare to your kNN classifier)
+Ran ok
+6. Include a textual representation of the tree your algorithm produced for the iris dataset.
+Couldn't look at it
+7. Describe your results for the Lenses data set. (e.g., What was the size of the tree? How did your implementation compare to existing implementations?)
+Ran ok
+8. Include a textual representation of the tree your algorithm produced for the Lenses dataset.
+Couldn't look at it
+9. Describe your results for the Voting data set. (e.g., What was the size of the tree? How did your implementation compare to existing implementations?)
+Ran without crashing, but couldn't look
+10. Include ___a portion of___ the representation of the tree your algorithm produced for the Voting dataset.
+Couldn't look at it
+11. If applicable, please describe anything you did to go above and beyond and the results you saw.
+
+12. Please select the category you feel best describes your assignment:
+
+B - Developing, but signficantly deficient
+
+
+13. Provide a brief justification (1-2 sentences) for selecting that category.
+I tried 2 different approaches, using my own to try and elminate recursion, but I couldn't get it to work and ended up gutting it and starting over.
+One of my files is what is left of that.
+I tried to impliment a version that Marsland laid out in the text, while this would run, it wasn't complete and I think with some missing information 
+I couldn't get what I wanted out of it for use

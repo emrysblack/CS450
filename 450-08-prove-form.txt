@@ -1,0 +1,57 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+
+1. Please list the 5 rules you found with the highest support.
+
+149 {other vegetables} => {whole milk}       0.07483477 0.3867578  1.513634
+150 {whole milk}       => {other vegetables} 0.07483477 0.2928770  1.513634
+148 {rolls/buns}       => {whole milk}       0.05663447 0.3079049  1.205032
+147 {yogurt}           => {whole milk}       0.05602440 0.4016035  1.571735
+145 {root vegetables}  => {whole milk}       0.04890696 0.4486940  1.756031
+144 {root vegetables}  => {other vegetables} 0.04738180 0.4347015  2.246605
+
+2. Please list the 5 rules you found with the highest confidence.
+
+221 {butter,whipped/sour cream} => {whole milk} 0.006710727 0.6600000  2.583008
+229 {butter,yogurt}             => {whole milk} 0.009354347 0.6388889  2.500387
+225 {root vegetables,butter}    => {whole milk} 0.008235892 0.6377953  2.496107
+183 {tropical fruit,curd}       => {whole milk} 0.006507372 0.6336634  2.479936
+222 {tropical fruit,butter}     => {whole milk} 0.006202339 0.6224490  2.436047
+
+3. Please list the 5 rules you found with the highest lift.
+
+1 {herbs}            => {root vegetables}    0.007015760  0.4312500 3.956477
+2 {berries}          => {whipped/sour cream} 0.009049314  0.2721713 3.796886
+3 {tropical fruit,                                                         
+   other vegetables,                                                        
+   whole milk}       => {root vegetables}    0.007015760  0.4107143 3.768074
+4 {beef,                                                                    
+   other vegetables} => {root vegetables}    0.007930859  0.4020619 3.688692
+5 {tropical fruit,                                                          
+   other vegetables} => {pip fruit}          0.009456024  0.2634561 3.482649
+
+4. Please list the 5 rules you found that you think are the most interesting.
+
+17 {sliced cheese}         => {sausage}            0.007015760  0.2863071 3.047435
+25 {root vegetables,                                                              
+    yogurt}                => {tropical fruit}     0.008134215  0.3149606 3.001587
+28 {pork,                                                                         
+    other vegetables}      => {root vegetables}    0.007015760  0.3239437 2.972002
+29 {yogurt,                                                                       
+    bottled water}         => {tropical fruit}     0.007117438  0.3097345 2.951782
+30 {tropical fruit,                                                               
+    whipped/sour cream}    => {other vegetables}   0.007829181  0.5661765 2.926088
+
+5. Please describe anything else you did for this assignment
+I tried to explore ignoring all milk results since it is so common and seems to be paired with everything
+
+
+6. Please select the category you feel best describes your assignment:
+
+D - Meets requirements
+
+
+
+7. Provide a brief justification (1-2 sentences) for selecting that category.
+
+Followed instructions and had fun

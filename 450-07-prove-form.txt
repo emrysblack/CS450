@@ -1,0 +1,28 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+
+1. Please describe your experiment/results for the Vowel dataset. How many different parameters did you try? What was the highest accuracy you obtained, and what were the parameters that produced it?
+I loaded the data and played around with the values. I tried around 13 combos for the params
+My highest accuracy was 94% with a gamma of .01 and a cost of 15
+
+2. Please describe your experiment/results for the Letters dataset. How many different parameters did you try? What was the highest accuracy you obtained, and what were the parameters that produced it?
+I loaded the data and played around with the values. I tried 10 combos for the params, this one took longer to process
+My highest accuracy was 97% with a gamma of .1 and a cost of 10
+
+3. Please describe your experiment/results for the Abalone dataset. How many different parameters did you try? What was the highest accuracy you obtained, and what were the parameters that produced it?
+This one was fairly quick to run. I tried around 25 different param combinations since neither little changes nor big changes seemed to do much in the end
+I only got up to a 57% accuracy with a gamma of .01 and a cost of15
+
+4. Describe anything you did to go above and beyond the minimum standard requirements.
+
+
+
+5. Please select the category you feel best describes your assignment:
+
+D - Meets requirements
+
+
+
+6. Provide a brief justification (1-2 sentences) for selecting that category.
+I followed the instructions. I did use R to test drive it, and I did a two extra datasets to experiment with, but it wasn't very difficult so I
+don't think that would count as above and beyond
